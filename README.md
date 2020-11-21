@@ -9,6 +9,11 @@ It is the result of an easy exercise within this [cool Python beginners tutorial
     ```bash
     pip3 install -r requirements.txt
     ```
+   
+   On Ubuntu you might have to install the `libespeak1` package
+   ```bash
+   sudo apt install libespeak1
+   ```
 
 2. Execute script
     ```bash
